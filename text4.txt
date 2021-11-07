@@ -4,3 +4,4 @@ after pulling down, we are adding text to same text4 file hh
 
 before pushing adding text
 
+adding line to test reset 
